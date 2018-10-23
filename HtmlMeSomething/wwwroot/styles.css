@@ -1,0 +1,18 @@
+﻿body {
+   background-color: hotpink;
+}
+p {
+    font-family: comic sans;
+    color: orangered;
+    font-size: medium;
+}
+h1 {
+    font-family: 'Baskerville Old Face';
+    color: purple;
+    font-size:x-large;
+}
+h2 {
+    font-family: comic sans;
+    color: purple;
+    font-size:large;
+}
